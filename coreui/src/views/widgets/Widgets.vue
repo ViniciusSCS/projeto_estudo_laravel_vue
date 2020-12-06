@@ -215,41 +215,7 @@
         </CWidgetIcon>
       </CCol>
     </CRow>
-    <!-- <CRow>
-      <CCol col="12" sm="6" lg="4">
-        <CWidgetIcon
-          header="$1.999,50"
-          text="Income"
-          color="primary"
-          :icon-padding="false"
-          link="#"
-        >
-          <CIcon name="cil-settings" class="mx-5 " width="24"/>
-        </CWidgetIcon>
-      </CCol>
-      <CCol col="12" sm="6" lg="4">
-        <CWidgetIcon
-          header="$1.999,50"
-          text="Income"
-          color="info"
-          :icon-padding="false"
-          link="#"
-        >
-          <CIcon name="cil-laptop" class="mx-5 " width="24"/>
-        </CWidgetIcon>
-      </CCol>
-      <CCol col="12" sm="6" lg="4">
-        <CWidgetIcon
-          header="$1.999,50"
-          text="Income"
-          color="warning"
-          :icon-padding="false"
-          link="#"
-        >
-          <CIcon name="cil-moon" class="mx-5" width="24"/>
-        </CWidgetIcon>
-      </CCol>
-    </CRow> -->
+
     <WidgetsBrand noCharts/>
     <WidgetsBrand/>
     <CCardGroup class="mb-4">

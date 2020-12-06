@@ -62,7 +62,7 @@ export default {
               self.showAlert();
             }else{
               console.log(error);
-              self.$router.push({ path: 'login' }); 
+              self.$router.push({ path: 'login' });
             }
         });
     },
