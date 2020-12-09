@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4fd451d-7116-49cc-a74c-4d6faa8631ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/views/menu/CreateMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/menu/CreateMenu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/views/widgets/Widgets.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/widgets/Widgets.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/routes/api.php" afterDir="false" />
+    <list default="true" id="f4fd451d-7116-49cc-a74c-4d6faa8631ea" name="Default Changelist" comment="git ignore">
+      <change afterPath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/src/views/users/User.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/users/User.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -167,6 +175,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -179,11 +188,39 @@
       <updated>1607281521438</updated>
       <workItem from="1607281540903" duration="203000" />
       <workItem from="1607282268948" duration="2866000" />
-      <workItem from="1607291030552" duration="569000" />
+      <workItem from="1607291030552" duration="792000" />
+      <workItem from="1607470004154" duration="8393000" />
     </task>
+    <task id="LOCAL-00001" summary="git ignore">
+      <created>1607470423549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607470423549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
