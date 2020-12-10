@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4fd451d-7116-49cc-a74c-4d6faa8631ea" name="Default Changelist" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coreui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coreui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/views/users/User.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/users/User.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +172,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -189,7 +187,8 @@
       <workItem from="1607281540903" duration="203000" />
       <workItem from="1607282268948" duration="2866000" />
       <workItem from="1607291030552" duration="792000" />
-      <workItem from="1607470004154" duration="8393000" />
+      <workItem from="1607470004154" duration="8488000" />
+      <workItem from="1607554215881" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1607470423549</created>
@@ -214,6 +213,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git ignore" />
