@@ -3,7 +3,7 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header" style="text-align: center">
-                    <strong>Credit Card </strong> <small>Form</small>
+                    <strong style="">Formulário de Cadastro</strong>
                 </div>
                 <div class="card-body">
                     <div class="form-row">
@@ -28,24 +28,15 @@
                     <div class="form-row">
                         <div class="form-group col-md-4">
                             <label for="endereco">Endereço</label>
-                            <input type="text" v-model="endereco" class="form-control" id="endereco" placeholder="Endereço">
+                            <input type="text" v-model="endereco" class="form-control" id="endereco"
+                                   placeholder="Endereço">
                         </div>
                         <div class="form-group col-md-2">
                             <label>
-                                Possui Número?
+                                Telefone
                             </label>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="exampleRadios" id="sim" value="1">
-                                <label class="form-check-label" for="sim">
-                                    Sim
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="exampleRadios" id="nao" value="2">
-                                <label class="form-check-label" for="nao">
-                                    Não
-                                </label>
-                            </div>
+                            <input type="text" class="form-control" id="telefone" v-model="telefone" v-mask="'(##) # ####-####'" placeholder="(00) 0 0000-0000">
+
                         </div>
                         <div class="form-group col-md-2">
                             <label for="numero">Número</label>
@@ -53,7 +44,8 @@
                         </div>
                         <div class="form-group col-md-4">
                             <label for="complemento">Complemento</label>
-                            <input type="text" v-model="complemento" class="form-control" id="complemento" placeholder="Complemento">
+                            <input type="text" v-model="complemento" class="form-control" id="complemento"
+                                   placeholder="Complemento">
                         </div>
                     </div>
 
@@ -109,7 +101,7 @@ export default {
                     cpf: self.cpf,
                     nome: self.nome,
                     email: self.email,
-                    numero: self.numero,
+                    telefone: self.telefone,
                     endereco: self.endereco,
                     sexo: self.sexoSelecionado,
                     complemento: self.complemento,
@@ -146,7 +138,7 @@ export default {
             data_nascimento: '',
             endereco: '',
             complemento: '',
-            numero: null,
+            telefone: null,
             sexoSelecionado: null,
             verificaRadio: null,
         }
