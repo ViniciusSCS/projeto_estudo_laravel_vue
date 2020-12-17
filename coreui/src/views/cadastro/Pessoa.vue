@@ -3,7 +3,7 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header" style="text-align: center">
-                    <strong>Credit Card </strong> <small>Form</small>
+                    <strong>Formulário de Pessoa</strong>
                 </div>
                 <div class="card-body">
                     <div class="form-row">
@@ -15,7 +15,7 @@
                             <label for="email">Email</label>
                             <input type="email" class="form-control" id="email" placeholder="Email">
                         </div>
-                        <div class="form-group col-md-4">
+                        <div class="form-group col-md-2">
                             <label for="cpf">CPF</label>
                             <input id="cpf" type="text"
                                    class="form-control"
@@ -23,10 +23,15 @@
                                    v-mask="'###.###.###-##'"
                                    placeholder="000.000.000-00">
                         </div>
+
+                        <div class="form-group col-md-2">
+                            <label for="example-date-input">Data de Nascimento</label>
+                            <input class="form-control" type="date" id="example-date-input">
+                        </div>
                     </div>
 
                     <div class="form-row">
-                        <div class="form-group col-md-4">
+                        <div class="form-group col-md-3">
                             <label for="endereco">Endereço</label>
                             <input type="text" class="form-control" id="endereco" placeholder="Endereço">
                         </div>
@@ -47,7 +52,7 @@
                                 </label>
                             </div>
                         </div>
-                        <div class="form-group col-md-2">
+                        <div class="form-group col-md-1">
                             <label for="numero">Número</label>
                             <input type="text" v-model="numero" class="form-control" id="numero" placeholder="0">
                         </div>
@@ -55,20 +60,12 @@
                             <label for="complemento">Complemento</label>
                             <input type="text" class="form-control" id="complemento" placeholder="Complemento">
                         </div>
-                    </div>
-
-                    <div class="form-row">
                         <div class="form-group col-md-2">
-                            <label for="example-date-input">Data de Nascimento</label>
-                            <input class="form-control" type="date" id="example-date-input">
-                        </div>
-
-                        <div class="form-group col-md-3">
                             <label for="sexo">Sexo</label>
                             <v-select
-                                id="sexo"
-                                v-model="sexoSelecionado"
-                                :options="sexo"
+                                    id="sexo"
+                                    v-model="sexoSelecionado"
+                                    :options="sexo"
                             ></v-select>
                         </div>
                     </div>
