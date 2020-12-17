@@ -5,138 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4fd451d-7116-49cc-a74c-4d6faa8631ea" name="Default Changelist" comment="git ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/projeto_estudo_laravel_vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projeto_estudo_laravel_vue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coreui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coreui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/laravel/node_modules/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/asm89/stack-cors/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/brick/math/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/composer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/dnoegel/php-xdg-base-dir/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/doctrine/inflector/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/doctrine/instantiator/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/doctrine/lexer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/dragonmantank/cron-expression/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/egulias/email-validator/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/facade/flare-client-php/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/facade/ignition/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/facade/ignition-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/fideloper/proxy/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/filp/whoops/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/fruitcake/laravel-cors/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/fzaninotto/faker/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/graham-campbell/result-type/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/guzzlehttp/guzzle/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/guzzlehttp/promises/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/guzzlehttp/psr7/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/hamcrest/hamcrest-php/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/intervention/image/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/laravel/framework/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/laravel/tinker/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/laravel/ui/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/lcobucci/jwt/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/league/commonmark/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/league/flysystem/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/league/glide/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/league/mime-type-detection/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/maennchen/zipstream-php/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/mockery/mockery/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/monolog/monolog/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/myclabs/deep-copy/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/myclabs/php-enum/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/namshi/jose/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/nesbot/carbon/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/nikic/php-parser/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/nunomaduro/collision/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/opis/closure/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/paragonie/random_compat/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phar-io/manifest/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phar-io/version/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-common/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-docblock/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpdocumentor/type-resolver/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpoption/phpoption/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpspec/prophecy/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/php-code-coverage/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/php-file-iterator/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/php-invoker/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/php-text-template/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/php-timer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/phpunit/phpunit/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/container/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/event-dispatcher/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/http-client/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/http-message/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/log/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psr/simple-cache/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/psy/psysh/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/ralouphie/getallheaders/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/ramsey/collection/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/ramsey/uuid/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/scrivo/highlight.php/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/cli-parser/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/code-unit/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/code-unit-reverse-lookup/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/comparator/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/complexity/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/diff/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/environment/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/exporter/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/global-state/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/lines-of-code/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/object-enumerator/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/object-reflector/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/recursion-context/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/resource-operations/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/type/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/sebastian/version/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/spatie/image/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/spatie/image-optimizer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/spatie/laravel-medialibrary/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/spatie/laravel-permission/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/spatie/temporary-directory/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/swiftmailer/swiftmailer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/console/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/css-selector/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/deprecation-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/error-handler/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/event-dispatcher/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/event-dispatcher-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/finder/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/http-client-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/http-foundation/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/http-kernel/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/mime/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-ctype/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-iconv/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-intl-grapheme/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-intl-idn/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-intl-normalizer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-mbstring/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php56/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php70/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php72/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php73/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php80/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-util/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/process/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/routing/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/service-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/string/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/translation/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/translation-contracts/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/symfony/var-dumper/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/theseer/tokenizer/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/tijsverkoyen/css-to-inline-styles/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/tymon/jwt-auth/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/vlucas/phpdotenv/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/voku/portable-ascii/" />
-    <ignored path="$PROJECT_DIR$/laravel/vendor/webmozart/assert/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,9 +22,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/laravel/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -356,21 +232,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sistema-rh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -388,6 +252,7 @@
       <workItem from="1607291030552" duration="792000" />
       <workItem from="1607470004154" duration="8393000" />
       <workItem from="1607531234945" duration="1787000" />
+      <workItem from="1608214120398" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1607470423549</created>
@@ -434,14 +299,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -460,6 +318,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git ignore" />
