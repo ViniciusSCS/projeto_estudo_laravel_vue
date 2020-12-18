@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4fd451d-7116-49cc-a74c-4d6faa8631ea" name="Default Changelist" comment="git ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" beforeDir="false" afterPath="$PROJECT_DIR$/coreui/src/views/cadastro/Pessoa.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/coreui/homepage.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +184,8 @@
       <workItem from="1607282268948" duration="2866000" />
       <workItem from="1607291030552" duration="792000" />
       <workItem from="1607470004154" duration="8488000" />
-      <workItem from="1607554215881" duration="3827000" />
+      <workItem from="1607554215881" duration="4158000" />
+      <workItem from="1608250700140" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1607470423549</created>
