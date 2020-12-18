@@ -48,4 +48,5 @@
 *.sln
 *.sw*
 
-/.idea/
+.idea/*
+/.idea/*

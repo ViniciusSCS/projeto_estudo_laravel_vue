@@ -37,6 +37,7 @@
     "sweetalert2": "^10.12.4",
     "v-mask": "^2.2.3",
     "vue": "~2.6.11",
+    "vue-mask": "^1.0.0",
     "vue-router": "~3.1.5",
     "vue-select": "^3.10.8",
     "vue-sweetalert2": "^4.1.1",
