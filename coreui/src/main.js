@@ -1,13 +1,13 @@
-import 'core-js/stable'
 import Vue from 'vue'
 import App from './App'
+import 'core-js/stable'
+import store from './store'
+import VueMask from 'v-mask'
 import router from './router'
 import CoreuiVue from '@coreui/vue'
+import vSelect from "vue-select"
+import "vue-select/dist/vue-select.css"
 import {iconsSet as icons} from './assets/icons/icons.js'
-import store from './store'
-import vSelect from "vue-select";
-import "vue-select/dist/vue-select.css";
-import VueMask from 'v-mask'
 
 Vue.use(VueMask);
 

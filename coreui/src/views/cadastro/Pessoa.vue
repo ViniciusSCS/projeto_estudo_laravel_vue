@@ -28,12 +28,12 @@
 
                         <div class="form-group col-md-2">
                             <label for="example-date-input">Data de Nascimento</label>
-                            <input class="form-control" type="date" id="example-date-input">
+                            <input class="form-control" v-model="data_nascimento" type="date" id="example-date-input">
                         </div>
                     </div>
 
                     <div class="form-row">
-                        <div class="form-group col-md-3">
+                        <div class="form-group col-md-2">
                             <label for="endereco">Endereço</label>
                             <input type="text" v-model="endereco" class="form-control" style="text-transform: uppercase"
                                    id="endereco"
@@ -55,11 +55,6 @@
                             <label for="complemento">Complemento</label>
                             <input type="text" v-model="complemento" class="form-control" id="complemento"
                                    placeholder="Complemento" style="text-transform: uppercase">
-                        </div>
-                        <div class="form-group col-md-2">
-
-                            <label for="data_nascimento">Data de Nascimento</label>
-                            <input class="form-control" v-model="data_nascimento" type="date" id="data_nascimento">
                         </div>
 
                         <div class="form-group col-md-3">
@@ -141,7 +136,6 @@ export default {
             self.endereco = ''
             self.complemento = ''
             self.data_nascimento = ''
-
 
             self.numero = null
             self.telefone = null
